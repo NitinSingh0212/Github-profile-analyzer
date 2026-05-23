@@ -1,5 +1,12 @@
 # 🔭 GitHub Profile Analyzer
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-profile-analyzer-hslbwhyz33othspreetcgv.streamlit.app/)
+
+> Analyze any public GitHub profile — languages, activity, commit heatmap, top repos & downloadable PDF report.
+
+## 🚀 Live Demo
+👉 [Click here to try it live](https://app-profile-analyzer-hslbwhyz33othspreetcgv.streamlit.app/)
+
 A sleek, dark-themed GitHub profile analyzer built with Python, Streamlit, and Plotly.
 
 ## Features
